@@ -1,20 +1,18 @@
-# Consuming a RESTful API in React
-A simple implementation on how to use a RESTful API in React.
-
-To follow along, this application has been documented as an article on Pusher blog. You can read about it [here](https://pusher.com/tutorials/consume-restful-api-react)
+# Consumindo uma API RESTful com React
+Uma simples implementação de como consumir uma API RESTful com React
 
 ## Set up
-To set up this project, first clone the repository
+Para rodar o projeto, primeiramente clone o projeto
 ```bash
-$ git clone https://github.com/fisayoafolayan/consuming-restful-api-in-react.git
+$ git clone https://github.com/H0tz/consuming-restful-api-in-react.git
 ```
 
-Change your working directory into the project directory
+Entre no diretório
 ```bash
 $ cd consuming-restful-api-in-react
 ```
 ## Run
-Start the application
+Inicie a aplicação
 ```bash
 $ npm start
 ```
