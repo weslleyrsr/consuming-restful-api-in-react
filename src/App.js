@@ -13,7 +13,7 @@ class App extends Component {
     };
 
     componentDidMount() {
-        fetch('http://jsonplaceholder.typicode.com/users')
+        fetch('https://react-restfulapi.mybluemix.net/contacts.js')
             .then(res => res.json())
             .then((data) => {
                 this.setState({ contacts: data })
